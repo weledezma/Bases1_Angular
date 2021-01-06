@@ -1,2 +1,2 @@
 # Bases1_Angular
-ertyrty
+Pagina de angular
