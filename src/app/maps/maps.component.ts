@@ -21,7 +21,7 @@ export class MapsComponent implements OnInit {
 
     var myLatlng = new google.maps.LatLng(40.748817, -73.985428);
     var mapOptions = {
-        zoom: 13,
+        zoom: 3,
         center: myLatlng,
         scrollwheel: false, //we disable de scroll over the map, it is a really annoing when you scroll through page
         styles: [{
