@@ -10,6 +10,7 @@ import { HotelesComponent } from '../../hoteles/hoteles.component';
 import { VehiculosComponent } from '../../vehiculos/vehiculos.component';
 import { MapsComponent } from '../../maps/maps.component';
 import { PaquetesComponent } from '../../paquetes/paquetes.component';
+import {RallyComponent} from '../../rallys/rallys.component';
 //import { UpgradeComponent } from '../../upgrade/upgrade.component';
 import {MatButtonModule} from '@angular/material/button';
 import {MatInputModule} from '@angular/material/input';
@@ -39,6 +40,7 @@ import {MatSelectModule} from '@angular/material/select';
     VehiculosComponent,
     MapsComponent,
     PaquetesComponent,
+    RallyComponent,
     //UpgradeComponent,
   ]
 })
