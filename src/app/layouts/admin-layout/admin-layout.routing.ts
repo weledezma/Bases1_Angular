@@ -6,7 +6,7 @@ import { VuelosComponent } from '../../vuelos/vuelos.component';
 import { HotelesComponent } from '../../hoteles/hoteles.component';
 import { VehiculosComponent } from '../../vehiculos/vehiculos.component';
 import { MapsComponent } from '../../maps/maps.component';
-import { NotificationsComponent } from '../../notifications/notifications.component';
+import { PaquetesComponent } from '../../paquetes/paquetes.component';
 //import { UpgradeComponent } from '../../upgrade/upgrade.component';
 
 export const AdminLayoutRoutes: Routes = [
@@ -57,7 +57,7 @@ export const AdminLayoutRoutes: Routes = [
     { path: 'table-list',     component: VuelosComponent },
     { path: 'typography',     component: HotelesComponent },
     { path: 'icons',          component: VehiculosComponent },
-    { path: 'notifications',  component: NotificationsComponent },
+    { path: 'notifications',  component: PaquetesComponent },
     { path: 'maps',           component: MapsComponent },
     
     //{ path: 'upgrade',        component: UpgradeComponent },
