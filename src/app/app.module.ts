@@ -13,7 +13,7 @@ import { AppComponent } from './app.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { UserProfileComponent } from './user-profile/user-profile.component';
 import { VuelosComponent } from './vuelos/vuelos.component';
-import { TypographyComponent } from './typography/typography.component';
+import { HotelesComponent } from './hoteles/hoteles.component';
 import { IconsComponent } from './icons/icons.component';
 import { MapsComponent } from './maps/maps.component';
 import { NotificationsComponent } from './notifications/notifications.component';
